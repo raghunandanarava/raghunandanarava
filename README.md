@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghunandanarava
-- 👀 I’m interested in data-sciences, deep learning, and software/game development
+- 👀 I’m interested in data-sciences, machine learning techniques, and software/game development
 - 🌱 I’m currently pursuing master's in Computational Engineering
 - 💞️ I’m looking to collaborate on deep learning, finite element, and software/game development
 - 📫 How to reach me - Write me an email at raghunandanarava@gmail.com
